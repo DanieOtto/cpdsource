@@ -20,7 +20,7 @@ export default function Home() {
             </code>
             .
           </li>
-          <li>Save and see your changes instantly.</li>
+          <li >Save and see your changes instantly.</li>
         </ol>
         <div className="bg-gray-100 min-h-screen flex items-center justify-center">
       <div className="bg-white p-6 rounded-lg shadow-lg">
